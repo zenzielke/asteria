@@ -1,0 +1,9 @@
+Building Asteriacoin
+
+See doc/readme-qt.rst for instructions on building Asteriacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Asteriacoin.
+
+See doc/build-*.txt for instructions on building asteriacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Asteriacoin.
